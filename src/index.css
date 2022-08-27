@@ -9,3 +9,7 @@ button{
 .btn-secondary, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:visited {
     background-color: #54179f !important;
 }
+
+a{
+    margin-right: 5px;
+}
